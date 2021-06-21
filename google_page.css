@@ -1,0 +1,72 @@
+.blankButton{
+    padding: 10px;
+    border: none;
+    background: none;
+}
+
+#bottomDiv{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(242, 242, 242);
+    padding: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#leftTop{
+    width: 30%;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+}
+
+#logo{
+    width: 20%;
+    position: absolute;
+    left: 40%;
+    top: 150px;
+}
+
+#lucky{
+    position: absolute;
+    top: 375px;
+    width: 10%;
+    right: 39%;
+    height: 30px;
+    border: none;
+}
+
+#rightTop{
+    width: 30%;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+    left: 80%;
+}
+
+#search{
+    position: absolute;
+    top: 375px;
+    width: 10%;
+    left: 39%;
+    height: 30px;
+    border: none;
+}
+
+#searchBar{
+    border: 1px rgb(222, 222, 222) solid;
+    border-radius: 25px;
+    width: 40%;
+    height: 40px;
+    position: absolute;
+    left: 30%;
+    top: 300px;
+}
+
+#signIn{
+    background-color: rgb(14, 120, 227);
+    color: white;
+    border: none;
+    padding: 10px;
+}
